@@ -1,0 +1,5 @@
+public class InvestmentAccount extends Account {
+    private BigDecimal rendimento;
+
+    public void aplicar(BigDecimal valor) { /* lógica de investimento */ }
+}
