@@ -1,0 +1,7 @@
+public class PixAccount extends Account {
+    private String chavePix;
+
+    public void transfer(PixAccount destino, BigDecimal valor) {
+        // Verifica saldo, atualiza contas e histórico
+    }
+}
