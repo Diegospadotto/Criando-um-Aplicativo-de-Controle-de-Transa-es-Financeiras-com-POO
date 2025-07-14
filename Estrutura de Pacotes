@@ -1,0 +1,6 @@
+src/
+├── model/           # Classes de domínio
+├── service/         # Regras de negócio
+├── repository/      # Simulação de acesso a dados
+├── util/            # Ferramentas auxiliares
+└── app/             # Menu principal e execução
