@@ -1,0 +1,8 @@
+public abstract class Account {
+    protected String numeroConta;
+    protected BigDecimal saldo;
+    protected List<Transaction> historico;
+
+    public abstract void deposit(BigDecimal valor);
+    public abstract void withdraw(BigDecimal valor);
+}
