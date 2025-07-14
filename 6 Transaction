@@ -1,0 +1,7 @@
+public class Transaction {
+    private LocalDateTime data;
+    private String descricao;
+    private BigDecimal valor;
+
+    // Construtor + toString para exibir no histórico
+}
