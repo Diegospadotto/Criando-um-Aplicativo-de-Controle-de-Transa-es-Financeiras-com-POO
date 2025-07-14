@@ -1,0 +1,7 @@
+public class User {
+    private String nome;
+    private String cpf;
+    private List<Account> contas;
+
+    // Construtor, getters, setters, adicionarConta(Account)
+}
